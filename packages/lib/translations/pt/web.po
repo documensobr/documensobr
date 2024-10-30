@@ -736,8 +736,8 @@ msgstr "Clique para copiar o link de assinatura para enviar ao destinatário"
 
 #: apps/web/src/app/(recipient)/d/[token]/sign-direct-template.tsx:175
 #: apps/web/src/app/(signing)/sign/[token]/form.tsx:115
-#: apps/web/src/app/embed/direct/[[...url]]/client.tsx:435
-#: apps/web/src/app/embed/sign/[[...url]]/client.tsx:314
+#: apps/web/src/app/embed/direct/[[...url]]/client.tsx:439
+#: apps/web/src/app/embed/sign/[[...url]]/client.tsx:318
 msgid "Click to insert field"
 msgstr "Clique para inserir campo"
 
@@ -754,8 +754,8 @@ msgid "Close"
 msgstr "Fechar"
 
 #: apps/web/src/app/(signing)/sign/[token]/sign-dialog.tsx:61
-#: apps/web/src/app/embed/direct/[[...url]]/client.tsx:425
-#: apps/web/src/app/embed/sign/[[...url]]/client.tsx:304
+#: apps/web/src/app/embed/direct/[[...url]]/client.tsx:429
+#: apps/web/src/app/embed/sign/[[...url]]/client.tsx:308
 #: apps/web/src/components/forms/v2/signup.tsx:534
 msgid "Complete"
 msgstr "Finalizar"
@@ -1997,8 +1997,8 @@ msgstr "Novo dono da equipe"
 msgid "New Template"
 msgstr "Novo Modelo"
 
-#: apps/web/src/app/embed/direct/[[...url]]/client.tsx:416
-#: apps/web/src/app/embed/sign/[[...url]]/client.tsx:295
+#: apps/web/src/app/embed/direct/[[...url]]/client.tsx:420
+#: apps/web/src/app/embed/sign/[[...url]]/client.tsx:299
 #: apps/web/src/components/forms/v2/signup.tsx:521
 msgid "Next"
 msgstr "Próximo"
